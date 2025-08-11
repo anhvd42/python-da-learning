@@ -1,0 +1,18 @@
+print(object(s), sep=separator, end=end, file=file, flush=flush)
+
+object(s) : doi tuong, du lieu dc xuat
+sep : ngan cach
+end : ket thuc
+file : ten tap tin
+flush : day du lieu
+
+#Vidu Các loại print
+print()
+print(5)
+print("hello world!")
+print(6); print("Hi")
+print("xin","chào","Duc Anh")
+print("xin","chào","Duc Anh","1234",sep=",")
+print('Xin',"chào", end=": ")
+print("Đức Anh")
+print("Tên ={0},Họ ={1}".format("Ducanh",'Van'))
