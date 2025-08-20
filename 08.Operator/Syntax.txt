@@ -1,0 +1,24 @@
+Toán tử so sánh:
+⦁	Bằng   : ==
+⦁	Khác   : !=
+⦁	Nhỏ hơn: <
+⦁	Lớn hơn: >
+⦁	Lớn hơn hoặc bằng : >=
+⦁	Nhỏ hơn hoặc bằng : <=
+⦁	and
+⦁	or
+⦁	not
+
+Toán tử gán:
+⦁	a = 9 : a = 9
+⦁	a+=9  : a = a +  9
+⦁	a-=9  : a = a -  9
+⦁	a*=9  : a = a *  9
+⦁	a/=9  : a = a /  9
+⦁	a%=9  : a = a %  9
+⦁	a//=9 : a = a // 9
+⦁	a**=9 : a = a ** 9
+
+Toán tử đặc biệt
+⦁	is
+⦁	is not
